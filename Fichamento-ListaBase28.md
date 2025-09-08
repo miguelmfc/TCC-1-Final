@@ -2,7 +2,7 @@
 Tufano, R.; Pascarella, L.; Tufano, M.; Poshyvanyk, D.; Bavota, G. "Towards Automating Code Review Activities." ICSE 2021. doi: 10.1109/ICSE43902.2021.00027
 
 ### 1. Fichamento de Conteúdo
-O artigo propõe o uso de redes neurais profundas (transformers) para automatizar parcialmente o processo de revisão de código. Foram desenvolvidos dois modelos: um voltado para o desenvolvedor (contribuidor), sugerindo alterações antes da submissão do código; e outro para o revisor, que gera automaticamente o código modificado a partir de comentários em linguagem natural. Os modelos foram treinados com 17.194 exemplos de revisões de código reais e obtiveram sucesso em 16% dos casos no primeiro cenário e até 31% no segundo. O estudo mostra que, embora os modelos ainda sejam limitados, eles têm potencial para apoiar o processo de revisão de código, poupando tempo e esforço dos desenvolvedores.
+O artigo propõe o uso de redes neurais profundas (transformers) para automatizar parcialmente o processo de revisão de código. Foram desenvolvidos dois modelos: um voltado para o desenvolvedor (contribuidor), que sugere alterações antes da submissão do código; e outro para o revisor, que gera automaticamente o código modificado a partir de comentários em linguagem natural. Os modelos foram treinados com 17.194 exemplos de revisões de código reais e tiveram sucesso em 16% dos casos no primeiro cenário e até 31% no segundo. Embora os modelos ainda sejam limitados o estudo mostra que eles têm potencial na área do processo de revisão de código.
 
 ### 2. Fichamento Bibliográfico
 - Arquitetura: transformer encoder-decoder (p. 2).
