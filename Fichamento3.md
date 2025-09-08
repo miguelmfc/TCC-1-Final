@@ -2,7 +2,7 @@
 Lopuha, O. et al. "Test Design Methodology for Software Verification." 2023 IEEE Smart Information Systems and Technologies (SIST), Astana, Kazakhstan. doi: 10.1109/SIST58284.2023.10223573
 
 ### 1. Fichamento de Conteúdo
-Este artigo apresenta uma metodologia de projeto de testes voltada à verificação de software, enfatizando a importância de processos estruturados e avaliação de riscos para a eficácia da testagem. Os autores propõem um modelo básico de processo de teste composto por 10 etapas, incluindo análise de artefatos, definição de objetivos e cenários de testes, execução e avaliação. Destacam-se o uso de prototipagem iterativa, análise de risco de falha e uma abordagem orientada a processos com base no modelo de maturidade de testes. A proposta visa otimizar custo, tempo e confiabilidade, permitindo um teste mais eficiente e eficaz de sistemas modulares.
+Este artigo apresenta uma metodologia de projeto de testes voltada à verificação de software, enfatizando a importância de processos estruturados e avaliação de riscos para a eficácia da testagem. Os autores propõem um modelo básico de processo de teste composto por 10 etapas, incluindo análise de artefatos, definição de objetivos e cenários de testes, execução e avaliação. Destacam-se o uso de prototipagem iterativa, análise de risco de falha e uma abordagem orientada a processos com base no modelo de maturidade de testes. A proposta tem o objetivo de otimizar custo, tempo e confiabilidade, permitindo um teste mais eficiente e eficaz de sistemas modulares.
 
 ### 2. Fichamento Bibliográfico
 - Ênfase em abordagem orientada a processos e avaliação de risco de falhas (p. 3-4).
