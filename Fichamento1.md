@@ -20,7 +20,7 @@ Os principais achados incluem:
 - *Contribuidores*: Número de desenvolvedores que contribuem ativamente para o projeto.
 
 ### 3. Fichamento de Citações
-- "We treat each tool adoption event as an *intervention* and examine its impact on project outcomes."
-- "Only some tools within the same category seem to be generally beneficial."
-- "The order in which tools are adopted matters."
-- "*standardJS*, *coveralls*, and *david* stand out as tools associated with post-adoption issue prevalence benefits."
+- *"We treat each tool adoption event as an intervention and examine its impact on project outcomes."*
+- *"Only some tools within the same category seem to be generally beneficial."*
+- *"The order in which tools are adopted matters."*
+- *"*standardJS*, *coveralls*, and *david* stand out as tools associated with post-adoption issue prevalence benefits."*
